@@ -1,0 +1,131 @@
+{
+  "locations": {
+    "from": "Hồ Chí Minh",
+    "to": "Hà Nội"
+  },
+  "time": {
+    "date": "hôm nay",
+    "time_preference": null
+  },
+  "preferences": {
+    "class": "Economy",
+    "airline": "VietJet Air",
+    "price_range": null
+  },
+  "last_updated": "2025-09-22T10:05:31.713065",
+  "last_search_result": {
+    "success": true,
+    "agent": "SearchAgent",
+    "data": {
+      "flights": [
+        {
+          "service_id": "FCBFFEB",
+          "flight_id": "VJ237",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "16:35",
+          "price": 2085868,
+          "seats_left": 2,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        },
+        {
+          "service_id": "FDF1AE7",
+          "flight_id": "VJ393",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "10:30",
+          "price": 2333126,
+          "seats_left": 7,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        },
+        {
+          "service_id": "F3441F1",
+          "flight_id": "VJ236",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "20:15",
+          "price": 2412533,
+          "seats_left": 5,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        },
+        {
+          "service_id": "F161BDA",
+          "flight_id": "VJ838",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "08:15",
+          "price": 2619328,
+          "seats_left": 3,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        },
+        {
+          "service_id": "F976C32",
+          "flight_id": "VJ109",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "18:50",
+          "price": 2719239,
+          "seats_left": 6,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        }
+      ]
+    },
+    "message": "Tìm thấy 5 chuyến bay từ Ho Chi Minh City đến Hanoi"
+  },
+  "selected_flight_id": "VJ237"
+}

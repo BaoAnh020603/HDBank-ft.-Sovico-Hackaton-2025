@@ -1,0 +1,109 @@
+{
+  "locations": {
+    "from": "Ho Chi Minh City",
+    "to": "Hanoi"
+  },
+  "time": {
+    "date": "hôm nay",
+    "time_preference": ""
+  },
+  "last_updated": "2025-09-23T09:08:46.891139",
+  "last_search_result": {
+    "success": true,
+    "agent": "ServiceAgent",
+    "service_type": "transfer",
+    "destination": "Hanoi",
+    "origin": "Ho Chi Minh City",
+    "data": {
+      "transfers": [
+        {
+          "type": "Xe riêng SOVICO VIP",
+          "price": "350,000đ",
+          "duration": "45 phút",
+          "route": "Sân bay Nội Bài - Trung tâm Hanoi",
+          "features": [
+            "Xe sang",
+            "Tài xế chuyên nghiệp",
+            "Nước suối miễn phí"
+          ],
+          "booking_code": "TRANSFER_VIP_001"
+        },
+        {
+          "type": "Xe Limousine SOVICO",
+          "price": "180,000đ",
+          "duration": "60 phút",
+          "route": "Sân bay Nội Bài - Hanoi",
+          "features": [
+            "Ghế massage",
+            "WiFi",
+            "Điều hòa"
+          ],
+          "booking_code": "TRANSFER_LIMO_002"
+        }
+      ]
+    },
+    "message": "Thông tin transfer tại Hanoi"
+  },
+  "selected_flight_id": "VJ116",
+  "completed_booking": {
+    "booking_id": "CONF116_2330",
+    "flight_details": {
+      "flight_id": "VJ116",
+      "airline": "VietJet Air",
+      "price": 1870560,
+      "time": "15:45",
+      "date": "23/09/2025",
+      "route": "SGN → HAN"
+    },
+    "travel_info": {
+      "from_city": "Ho Chi Minh City",
+      "to_city": "Hanoi",
+      "destination": "Hanoi",
+      "origin": "Ho Chi Minh City"
+    },
+    "booking_date": "2025-09-23T09:07:40.847903",
+    "status": "completed"
+  },
+  "current_destination": "Hanoi",
+  "current_origin": "Ho Chi Minh City",
+  "booking_session": {
+    "session_id": "booking_VJ116_2330",
+    "step": "collect_phone",
+    "flight_info": {
+      "success": true,
+      "agent": "ServiceAgent",
+      "service_type": "transfer",
+      "destination": "Hanoi",
+      "origin": "Ho Chi Minh City",
+      "data": {
+        "transfers": [
+          {
+            "type": "Xe riêng SOVICO VIP",
+            "price": "350,000đ",
+            "duration": "45 phút",
+            "route": "Sân bay Nội Bài - Trung tâm Hanoi",
+            "features": [
+              "Xe sang",
+              "Tài xế chuyên nghiệp",
+              "Nước suối miễn phí"
+            ],
+            "booking_code": "TRANSFER_VIP_001"
+          },
+          {
+            "type": "Xe Limousine SOVICO",
+            "price": "180,000đ",
+            "duration": "60 phút",
+            "route": "Sân bay Nội Bài - Hanoi",
+            "features": [
+              "Ghế massage",
+              "WiFi",
+              "Điều hòa"
+            ],
+            "booking_code": "TRANSFER_LIMO_002"
+          }
+        ]
+      },
+      "message": "Thông tin transfer tại Hanoi"
+    }
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "locations": {
+    "from": "",
+    "to": ""
+  },
+  "time": {
+    "date": "22/9/2025",
+    "time_preference": ""
+  },
+  "preferences": {
+    "price_range": ""
+  },
+  "last_updated": "2025-09-22T17:59:29.168697",
+  "last_search_result": {
+    "success": true,
+    "agent": "SearchAgent",
+    "data": {
+      "flights": [
+        {
+          "service_id": "F11615",
+          "flight_id": "VJ116",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "23/09/2025",
+          "time": "15:45",
+          "price": 1870560,
+          "seats_left": 4,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h05m",
+          "aircraft": {
+            "type": "A321",
+            "manufacturer": "Airbus",
+            "model": "A321-200",
+            "total_seats": 230,
+            "seat_layout": "3-3",
+            "wifi": true,
+            "entertainment": true
+          },
+          "seating": {
+            "available_seats": [
+              "6A",
+              "6B",
+              "6F",
+              "8C"
+            ],
+            "seat_map": "A-B-C | D-E-F",
+            "premium_seats": [
+              "1A",
+              "1B",
+              "1C",
+              "1D",
+              "1E",
+              "1F",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "2E",
+              "2F",
+              "3A",
+              "3B",
+              "3C",
+              "3D",
+              "3E",
+              "3F"
+            ],
+            "exit_row_seats": [
+              "14A",
+              "14B",
+              "14C",
+              "14D",
+              "14E",
+              "14F",
+              "15A",
+              "15B",
+              "15C",
+              "15D",
+              "15E",
+              "15F"
+            ]
+          },
+          "baggage": {
+            "cabin": {
+              "weight": "7kg",
+              "dimensions": "56x36x23cm",
+              "pieces": 1
+            },
+            "checked": {
+              "included": "20kg",
+              "max_weight": "32kg",
+              "excess_fee": "200,000 VND/kg"
+            },
+            "special_items": {
+              "sports": "Có phí bổ sung",
+              "instruments": "Cần đăng ký trước"
+            }
+          },
+          "services": {
+            "meals": {
+              "available": true,
+              "price_range": "80,000-150,000 VND"
+            },
+            "beverages": {
+              "complimentary": [
+                "Nước lọc",
+                "Trà",
+                "Cà phê"
+              ]
+            },
+            "wifi": {
+              "available": true,
+              "fee": "50,000 VND"
+            },
+            "entertainment": {
+              "streaming": "VieON miễn phí"
+            }
+          },
+          "pricing": {
+            "base_fare": 1309392,
+            "taxes_fees": 374112,
+            "service_fee": 187056,
+            "total": 1870560,
+            "currency": "VND"
+          },
+          "policies": {
+            "cancellation": "Có thể hủy với phí 500,000 VND",
+            "change": "Có thể đổi với phí 300,000 VND",
+            "refund": "Hoàn tiền 70% nếu hủy trước 24h",
+            "check_in": "Mở check-in online 24h trước giờ bay"
+          },
+          "date_display": "Thứ Ba, 23/09/2025",
+          "weekday": "Thứ Ba",
+          "day_of_week": 1,
+          "is_weekend": false,
+          "is_holiday": false,
+          "season": "Mùa thu"
+        },
+        {
+          "service_id": "F11410",
+          "flight_id": "VJ114",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "23/09/2025",
+          "time": "10:15",
+          "price": 1987470,
+          "seats_left": 4,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h05m",
+          "aircraft": {
+            "type": "A320",
+            "manufacturer": "Airbus",
+            "model": "A320-200",
+            "total_seats": 180,
+            "seat_layout": "3-3",
+            "wifi": true,
+            "entertainment": false
+          },
+          "seating": {
+            "available_seats": [
+              "5A",
+              "5B",
+              "5F",
+              "7C"
+            ],
+            "seat_map": "A-B-C | D-E-F",
+            "premium_seats": [
+              "1A",
+              "1B",
+              "1C",
+              "1D",
+              "1E",
+              "1F",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "2E",
+              "2F"
+            ],
+            "exit_row_seats": [
+              "12A",
+              "12B",
+              "12C",
+              "12D",
+              "12E",
+              "12F",
+              "13A",
+              "13B",
+              "13C",
+              "13D",
+              "13E",
+              "13F"
+            ]
+          },
+          "baggage": {
+            "cabin": {
+              "weight": "7kg",
+              "dimensions": "56x36x23cm",
+              "pieces": 1
+            },
+            "checked": {
+              "included": "20kg",
+              "max_weight": "32kg",
+              "excess_fee": "200,000 VND/kg"
+            },
+            "special_items": {
+              "sports": "Có phí bổ sung",
+              "instruments": "Cần đăng ký trước"
+            }
+          },
+          "services": {
+            "meals": {
+              "available": true,
+              "price_range": "80,000-150,000 VND"
+            },
+            "beverages": {
+              "complimentary": [
+                "Nước lọc",
+                "Trà",
+                "Cà phê"
+              ]
+            },
+            "wifi": {
+              "available": true,
+              "fee": "50,000 VND"
+            },
+            "entertainment": {
+              "streaming": "VieON miễn phí"
+            }
+          },
+          "pricing": {
+            "base_fare": 1391229,
+            "taxes_fees": 397494,
+            "service_fee": 198747,
+            "total": 1987470,
+            "currency": "VND"
+          },
+          "policies": {
+            "cancellation": "Có thể hủy với phí 500,000 VND",
+            "change": "Có thể đổi với phí 300,000 VND",
+            "refund": "Hoàn tiền 70% nếu hủy trước 24h",
+            "check_in": "Mở check-in online 24h trước giờ bay"
+          },
+          "date_display": "Thứ Ba, 23/09/2025",
+          "weekday": "Thứ Ba",
+          "day_of_week": 1,
+          "is_weekend": false,
+          "is_holiday": false,
+          "season": "Mùa thu"
+        },
+        {
+          "service_id": "F11205",
+          "flight_id": "VJ112",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "23/09/2025",
+          "time": "05:45",
+          "price": 2045925,
+          "seats_left": 5,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h05m",
+          "aircraft": {
+            "type": "A321",
+            "manufacturer": "Airbus",
+            "model": "A321-200",
+            "total_seats": 230,
+            "seat_layout": "3-3",
+            "wifi": true,
+            "entertainment": true
+          },
+          "seating": {
+            "available_seats": [
+              "6A",
+              "6B",
+              "6F",
+              "8C",
+              "8D"
+            ],
+            "seat_map": "A-B-C | D-E-F",
+            "premium_seats": [
+              "1A",
+              "1B",
+              "1C",
+              "1D",
+              "1E",
+              "1F",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "2E",
+              "2F",
+              "3A",
+              "3B",
+              "3C",
+              "3D",
+              "3E",
+              "3F"
+            ],
+            "exit_row_seats": [
+              "14A",
+              "14B",
+              "14C",
+              "14D",
+              "14E",
+              "14F",
+              "15A",
+              "15B",
+              "15C",
+              "15D",
+              "15E",
+              "15F"
+            ]
+          },
+          "baggage": {
+            "cabin": {
+              "weight": "7kg",
+              "dimensions": "56x36x23cm",
+              "pieces": 1
+            },
+            "checked": {
+              "included": "20kg",
+              "max_weight": "32kg",
+              "excess_fee": "200,000 VND/kg"
+            },
+            "special_items": {
+              "sports": "Có phí bổ sung",
+              "instruments": "Cần đăng ký trước"
+            }
+          },
+          "services": {
+            "meals": {
+              "available": true,
+              "price_range": "80,000-150,000 VND"
+            },
+            "beverages": {
+              "complimentary": [
+                "Nước lọc",
+                "Trà",
+                "Cà phê"
+              ]
+            },
+            "wifi": {
+              "available": true,
+              "fee": "50,000 VND"
+            },
+            "entertainment": {
+              "streaming": "VieON miễn phí"
+            }
+          },
+          "pricing": {
+            "base_fare": 1432147,
+            "taxes_fees": 409185,
+            "service_fee": 204592,
+            "total": 2045925,
+            "currency": "VND"
+          },
+          "policies": {
+            "cancellation": "Có thể hủy với phí 500,000 VND",
+            "change": "Có thể đổi với phí 300,000 VND",
+            "refund": "Hoàn tiền 70% nếu hủy trước 24h",
+            "check_in": "Mở check-in online 24h trước giờ bay"
+          },
+          "date_display": "Thứ Ba, 23/09/2025",
+          "weekday": "Thứ Ba",
+          "day_of_week": 1,
+          "is_weekend": false,
+          "is_holiday": false,
+          "season": "Mùa thu"
+        },
+        {
+          "service_id": "F11209",
+          "flight_id": "VJ112",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "23/09/2025",
+          "time": "09:30",
+          "price": 2057616,
+          "seats_left": 4,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h05m",
+          "aircraft": {
+            "type": "A321",
+            "manufacturer": "Airbus",
+            "model": "A321-200",
+            "total_seats": 230,
+            "seat_layout": "3-3",
+            "wifi": true,
+            "entertainment": true
+          },
+          "seating": {
+            "available_seats": [
+              "6A",
+              "6B",
+              "6F",
+              "8C"
+            ],
+            "seat_map": "A-B-C | D-E-F",
+            "premium_seats": [
+              "1A",
+              "1B",
+              "1C",
+              "1D",
+              "1E",
+              "1F",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "2E",
+              "2F",
+              "3A",
+              "3B",
+              "3C",
+              "3D",
+              "3E",
+              "3F"
+            ],
+            "exit_row_seats": [
+              "14A",
+              "14B",
+              "14C",
+              "14D",
+              "14E",
+              "14F",
+              "15A",
+              "15B",
+              "15C",
+              "15D",
+              "15E",
+              "15F"
+            ]
+          },
+          "baggage": {
+            "cabin": {
+              "weight": "7kg",
+              "dimensions": "56x36x23cm",
+              "pieces": 1
+            },
+            "checked": {
+              "included": "20kg",
+              "max_weight": "32kg",
+              "excess_fee": "200,000 VND/kg"
+            },
+            "special_items": {
+              "sports": "Có phí bổ sung",
+              "instruments": "Cần đăng ký trước"
+            }
+          },
+          "services": {
+            "meals": {
+              "available": true,
+              "price_range": "80,000-150,000 VND"
+            },
+            "beverages": {
+              "complimentary": [
+                "Nước lọc",
+                "Trà",
+                "Cà phê"
+              ]
+            },
+            "wifi": {
+              "available": true,
+              "fee": "50,000 VND"
+            },
+            "entertainment": {
+              "streaming": "VieON miễn phí"
+            }
+          },
+          "pricing": {
+            "base_fare": 1440331,
+            "taxes_fees": 411523,
+            "service_fee": 205761,
+            "total": 2057616,
+            "currency": "VND"
+          },
+          "policies": {
+            "cancellation": "Có thể hủy với phí 500,000 VND",
+            "change": "Có thể đổi với phí 300,000 VND",
+            "refund": "Hoàn tiền 70% nếu hủy trước 24h",
+            "check_in": "Mở check-in online 24h trước giờ bay"
+          },
+          "date_display": "Thứ Ba, 23/09/2025",
+          "weekday": "Thứ Ba",
+          "day_of_week": 1,
+          "is_weekend": false,
+          "is_holiday": false,
+          "season": "Mùa thu"
+        },
+        {
+          "service_id": "F11406",
+          "flight_id": "VJ114",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "23/09/2025",
+          "time": "06:30",
+          "price": 2104380,
+          "seats_left": 3,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h05m",
+          "aircraft": {
+            "type": "A320",
+            "manufacturer": "Airbus",
+            "model": "A320-200",
+            "total_seats": 180,
+            "seat_layout": "3-3",
+            "wifi": true,
+            "entertainment": false
+          },
+          "seating": {
+            "available_seats": [
+              "5A",
+              "5B",
+              "5F"
+            ],
+            "seat_map": "A-B-C | D-E-F",
+            "premium_seats": [
+              "1A",
+              "1B",
+              "1C",
+              "1D",
+              "1E",
+              "1F",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "2E",
+              "2F"
+            ],
+            "exit_row_seats": [
+              "12A",
+              "12B",
+              "12C",
+              "12D",
+              "12E",
+              "12F",
+              "13A",
+              "13B",
+              "13C",
+              "13D",
+              "13E",
+              "13F"
+            ]
+          },
+          "baggage": {
+            "cabin": {
+              "weight": "7kg",
+              "dimensions": "56x36x23cm",
+              "pieces": 1
+            },
+            "checked": {
+              "included": "20kg",
+              "max_weight": "32kg",
+              "excess_fee": "200,000 VND/kg"
+            },
+            "special_items": {
+              "sports": "Có phí bổ sung",
+              "instruments": "Cần đăng ký trước"
+            }
+          },
+          "services": {
+            "meals": {
+              "available": true,
+              "price_range": "80,000-150,000 VND"
+            },
+            "beverages": {
+              "complimentary": [
+                "Nước lọc",
+                "Trà",
+                "Cà phê"
+              ]
+            },
+            "wifi": {
+              "available": true,
+              "fee": "50,000 VND"
+            },
+            "entertainment": {
+              "streaming": "VieON miễn phí"
+            }
+          },
+          "pricing": {
+            "base_fare": 1473066,
+            "taxes_fees": 420876,
+            "service_fee": 210438,
+            "total": 2104380,
+            "currency": "VND"
+          },
+          "policies": {
+            "cancellation": "Có thể hủy với phí 500,000 VND",
+            "change": "Có thể đổi với phí 300,000 VND",
+            "refund": "Hoàn tiền 70% nếu hủy trước 24h",
+            "check_in": "Mở check-in online 24h trước giờ bay"
+          },
+          "date_display": "Thứ Ba, 23/09/2025",
+          "weekday": "Thứ Ba",
+          "day_of_week": 1,
+          "is_weekend": false,
+          "is_holiday": false,
+          "season": "Mùa thu"
+        },
+        {
+          "service_id": "F11619",
+          "flight_id": "VJ116",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "23/09/2025",
+          "time": "19:15",
+          "price": 2314818,
+          "seats_left": 2,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h05m",
+          "aircraft": {
+            "type": "A321",
+            "manufacturer": "Airbus",
+            "model": "A321-200",
+            "total_seats": 230,
+            "seat_layout": "3-3",
+            "wifi": true,
+            "entertainment": true
+          },
+          "seating": {
+            "available_seats": [
+              "6A",
+              "6B"
+            ],
+            "seat_map": "A-B-C | D-E-F",
+            "premium_seats": [
+              "1A",
+              "1B",
+              "1C",
+              "1D",
+              "1E",
+              "1F",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "2E",
+              "2F",
+              "3A",
+              "3B",
+              "3C",
+              "3D",
+              "3E",
+              "3F"
+            ],
+            "exit_row_seats": [
+              "14A",
+              "14B",
+              "14C",
+              "14D",
+              "14E",
+              "14F",
+              "15A",
+              "15B",
+              "15C",
+              "15D",
+              "15E",
+              "15F"
+            ]
+          },
+          "baggage": {
+            "cabin": {
+              "weight": "7kg",
+              "dimensions": "56x36x23cm",
+              "pieces": 1
+            },
+            "checked": {
+              "included": "20kg",
+              "max_weight": "32kg",
+              "excess_fee": "200,000 VND/kg"
+            },
+            "special_items": {
+              "sports": "Có phí bổ sung",
+              "instruments": "Cần đăng ký trước"
+            }
+          },
+          "services": {
+            "meals": {
+              "available": true,
+              "price_range": "80,000-150,000 VND"
+            },
+            "beverages": {
+              "complimentary": [
+                "Nước lọc",
+                "Trà",
+                "Cà phê"
+              ]
+            },
+            "wifi": {
+              "available": true,
+              "fee": "50,000 VND"
+            },
+            "entertainment": {
+              "streaming": "VieON miễn phí"
+            }
+          },
+          "pricing": {
+            "base_fare": 1620372,
+            "taxes_fees": 462963,
+            "service_fee": 231481,
+            "total": 2314818,
+            "currency": "VND"
+          },
+          "policies": {
+            "cancellation": "Có thể hủy với phí 500,000 VND",
+            "change": "Có thể đổi với phí 300,000 VND",
+            "refund": "Hoàn tiền 70% nếu hủy trước 24h",
+            "check_in": "Mở check-in online 24h trước giờ bay"
+          },
+          "date_display": "Thứ Ba, 23/09/2025",
+          "weekday": "Thứ Ba",
+          "day_of_week": 1,
+          "is_weekend": false,
+          "is_holiday": false,
+          "season": "Mùa thu"
+        }
+      ]
+    },
+    "message": "Tìm thấy 6 chuyến bay từ Ho Chi Minh City đến Hanoi ngày 2025-09-23"
+  },
+  "selected_flight_id": "VJ116"
+}

@@ -1,0 +1,30 @@
+{
+  "user_preferences": {
+    "language": "vi",
+    "currency": "VND",
+    "notification": true
+  },
+  "search_history": [
+    {
+      "query": "HCM to HN",
+      "timestamp": "2025-01-20"
+    },
+    {
+      "query": "HN to DAD",
+      "timestamp": "2025-01-19"
+    }
+  ],
+  "locations": {
+    "from": "",
+    "to": ""
+  },
+  "last_search_result": {
+    "flight_id": "VJ112",
+    "price": 1665967
+  },
+  "last_updated": "2025-09-22T19:39:27.203867",
+  "time": {
+    "date": "",
+    "time_preference": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "test_data": "hello",
+  "booking_session": {
+    "session_id": "test_session",
+    "step": "collect_phone"
+  },
+  "last_updated": "2025-09-22T21:09:41.293668"
+}

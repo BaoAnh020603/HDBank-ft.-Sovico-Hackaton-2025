@@ -1,0 +1,47 @@
+{
+  "locations": {
+    "from": "Hồ Chí Minh",
+    "to": "Hà Nội"
+  },
+  "time": {
+    "date": "ngày hôm nay",
+    "time_preference": null
+  },
+  "preferences": {
+    "class": "Economy",
+    "airline": "VietJet Air",
+    "price_range": "giá rẻ nhất"
+  },
+  "last_updated": "2025-09-22T10:31:16.458178",
+  "last_search_result": {
+    "success": true,
+    "agent": "SearchAgent",
+    "data": {
+      "flights": [
+        {
+          "service_id": "F7EA612",
+          "flight_id": "VJ111",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "ngày hôm nay",
+          "time": "12:45",
+          "price": 1766685,
+          "seats_left": 6,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h05m"
+        }
+      ]
+    },
+    "message": "Vé rẻ nhất từ Ho Chi Minh City đến Hanoi: VietJet Air VJ111 - 1,766,685 VNĐ"
+  },
+  "selected_flight_id": "VJ111"
+}

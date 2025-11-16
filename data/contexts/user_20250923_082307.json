@@ -1,0 +1,63 @@
+{
+  "locations": {
+    "from": "Ho Chi Minh City",
+    "to": "Hanoi"
+  },
+  "time": {
+    "date": "hôm nay",
+    "time_preference": ""
+  },
+  "last_updated": "2025-09-23T08:29:53.057494",
+  "last_search_result": {
+    "success": true,
+    "agent": "ServiceAgent",
+    "service_type": "hotel",
+    "destination": "Hanoi",
+    "origin": "Ho Chi Minh City",
+    "data": {
+      "hotels": [
+        {
+          "name": "Lotte Hotel Hanoi",
+          "rating": 5,
+          "price": "2,500,000đ/đêm",
+          "location": "Ba Đình, Hà Nội"
+        },
+        {
+          "name": "Hilton Hanoi Opera",
+          "rating": 5,
+          "price": "2,200,000đ/đêm",
+          "location": "Hoàn Kiếm, Hà Nội"
+        },
+        {
+          "name": "Hotel Nikko Hanoi",
+          "rating": 4,
+          "price": "1,800,000đ/đêm",
+          "location": "Tây Hồ, Hà Nội"
+        }
+      ]
+    },
+    "message": "Thông tin hotel tại Hanoi"
+  },
+  "selected_flight_id": "VJ116",
+  "completed_booking": {
+    "booking_id": "CONF116_1161",
+    "flight_details": {
+      "flight_id": "VJ116",
+      "airline": "VietJet Air",
+      "price": 1870560,
+      "time": "15:45",
+      "date": "23/09/2025",
+      "route": "SGN → HAN"
+    },
+    "travel_info": {
+      "from_city": "Ho Chi Minh City",
+      "to_city": "Hanoi",
+      "destination": "Hanoi",
+      "origin": "Ho Chi Minh City"
+    },
+    "booking_date": "2025-09-23T08:25:45.959529",
+    "status": "completed"
+  },
+  "current_destination": "Hanoi",
+  "current_origin": "Ho Chi Minh City"
+}

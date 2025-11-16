@@ -1,0 +1,89 @@
+{
+  "locations": {
+    "from": "hcm",
+    "to": "hà nội"
+  },
+  "time": {
+    "date": "hôm nay",
+    "time_preference": null
+  },
+  "preferences": {
+    "class": "thương gia",
+    "airline": null,
+    "price_range": null
+  },
+  "last_updated": "2025-09-22T08:48:19.270830",
+  "last_search_result": {
+    "success": true,
+    "agent": "SearchAgent",
+    "data": {
+      "flights": [
+        {
+          "service_id": "F309F5F",
+          "flight_id": "VJ306",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "12:45",
+          "price": 2089995,
+          "seats_left": 7,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        },
+        {
+          "service_id": "FE77321",
+          "flight_id": "VJ154",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "06:45",
+          "price": 2363638,
+          "seats_left": 3,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        },
+        {
+          "service_id": "F422128",
+          "flight_id": "VJ312",
+          "airline": "VietJet Air",
+          "airline_code": "VJ",
+          "from_city": "Ho Chi Minh City",
+          "to_city": "Hanoi",
+          "from_code": "SGN",
+          "to_code": "HAN",
+          "from_airport": "Sân bay Tân Sơn Nhất",
+          "to_airport": "Sân bay Nội Bài",
+          "route": "SGN → HAN",
+          "route_detail": "Sân bay Tân Sơn Nhất → Sân bay Nội Bài",
+          "date": "hôm nay",
+          "time": "16:35",
+          "price": 2471281,
+          "seats_left": 9,
+          "class_type": "Economy",
+          "quality": "sovico_premium",
+          "duration": "2h24m"
+        }
+      ]
+    },
+    "message": "Tìm thấy 3 chuyến bay từ Ho Chi Minh City đến Hanoi"
+  },
+  "selected_flight_id": "VJ306"
+}

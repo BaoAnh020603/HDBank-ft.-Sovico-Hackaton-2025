@@ -1,0 +1,16 @@
+{
+  "locations": {
+    "from": "hcm",
+    "to": "hn"
+  },
+  "time": {
+    "date": "22/9/2025",
+    "time_preference": ""
+  },
+  "preferences": {
+    "class": "",
+    "airline": "",
+    "price_range": ""
+  },
+  "last_updated": "2025-09-22T11:12:30.835006"
+}
